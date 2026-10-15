@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "question": "Which hook is used to store a value that changes on the screen?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useRef",
+            "useMemo"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 2,
+        "question": "What does the empty array [] in useEffect mean?",
+        "options": [
+            "Run on every render",
+            "Run only one time at the start",
+            "Never run",
+            "Run when the state changes"
+        ],
+        "answer": "Run only one time at the start"
+    },
+    {
+        "id": 3,
+        "question": "Which function stops a setInterval?",
+        "options": [
+            "stopInterval",
+            "clearTimeout",
+            "clearInterval",
+            "removeInterval"
+        ],
+        "answer": "clearInterval"
+    },
+    {
+        "id": 4,
+        "question": "What does JSX stand for?",
+        "options": [
+            "JavaScript XML",
+            "Java Syntax Extension",
+            "JSON XML",
+            "JavaScript Extra"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 5,
+        "question": "How do we send data from a parent component to a child component?",
+        "options": [
+            "state",
+            "props",
+            "hooks",
+            "events"
+        ],
+        "answer": "props"
+    },
+    {
+        "id": 6,
+        "question": "Which array method is used to show a list of items on the screen?",
+        "options": [
+            "push",
+            "map",
+            "pop",
+            "join"
+        ],
+        "answer": "map"
+    },
+    {
+        "id": 7,
+        "question": "What does the key prop help React to do in a list?",
+        "options": [
+            "Add colors to the list",
+            "Find which item changed",
+            "Sort the list",
+            "Delete the list"
+        ],
+        "answer": "Find which item changed"
+    },
+    {
+        "id": 8,
+        "question": "Which hook runs code after the component shows on the screen?",
+        "options": [
+            "useState",
+            "useContext",
+            "useEffect",
+            "useReducer"
+        ],
+        "answer": "useEffect"
+    },
+    {
+        "id": 9,
+        "question": "How should a React component name start?",
+        "options": [
+            "With a small letter",
+            "With a number",
+            "With a capital letter",
+            "With a symbol"
+        ],
+        "answer": "With a capital letter"
+    },
+    {
+        "id": 10,
+        "question": "What does a state function like setScore do?",
+        "options": [
+            "Deletes the state",
+            "Only reads the state",
+            "Stops the component",
+            "Changes the state and updates the screen"
+        ],
+        "answer": "Changes the state and updates the screen"
+    },{
+    "id": 11,
+    "question": "What does the useState hook give back?",
+    "options": [
+      "Only a value",
+      "Only a function",
+      "A value and a function to change it",
+      "A new component"
+    ],
+    "answer": "A value and a function to change it"
+  },
+  {
+    "id": 12,
+    "question": "What is a component in React?",
+    "options": [
+      "A small reusable piece of the screen",
+      "A CSS file",
+      "A database",
+      "A browser tab"
+    ],
+    "answer": "A small reusable piece of the screen"
+  },
+  {
+    "id": 13,
+    "question": "Which symbol is used to write JavaScript inside JSX?",
+    "options": ["( )", "[ ]", "{ }", "< >"],
+    "answer": "{ }"
+  },
+  {
+    "id": 14,
+    "question": "Which command starts a Vite React project in development?",
+    "options": ["npm run dev", "npm stop", "npm remove", "npm clear"],
+    "answer": "npm run dev"
+  },
+  {
+    "id": 15,
+    "question": "Which attribute do we use in JSX to add a CSS class?",
+    "options": ["class", "className", "style-class", "cssClass"],
+    "answer": "className"
+  }
+]
